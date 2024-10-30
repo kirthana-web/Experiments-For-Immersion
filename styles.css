@@ -88,7 +88,8 @@ h2 {
     font-weight: 400;
     line-height: 150%;
     color: #767676;
-    margin-top:10vh;
+    margin-top:5vh;
+    margin-bottom: 5vh;
     font-size: 2.5vh;
 }
 
@@ -221,6 +222,10 @@ img {
 }
 
 #vid {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.5vw;
 
 
 }
@@ -247,16 +252,19 @@ img {
     .intimages {
         display: flex;
         flex-direction: column;
-        margin-left: 0px;
         overflow-x: hidden;
         max-width: fit-content;
-        align-items: baseline;
+        align-items: center;
         margin: 0%;
         padding: 0%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 4vh;
     }
 
     .intimagesA {
         display: flex;
+
         margin-left: 0px;
         overflow-x: hidden;
         max-width: fit-content;

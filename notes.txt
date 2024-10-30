@@ -1,0 +1,6 @@
+/* CSS HEX */
+--african-violet: #9d79bcff;
+--purpureus: #a14da0ff;
+--seasalt: #f8f8f8ff;
+--mardi-gras: #7e1f86ff;
+--russian-violet: #0b032dff;
