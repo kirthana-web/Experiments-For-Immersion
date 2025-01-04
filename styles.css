@@ -188,6 +188,16 @@ img {
 
 }
 
+#endh3 {
+
+    font-family: satoshi;
+    font-weight: 400;
+    line-height: 150%;
+    color: #173de6;
+    font-size: 2vh;
+
+}
+
 #sq {
     height: 60vh;
 }
@@ -335,5 +345,9 @@ img {
     #D2 {
         max-width: 80vw;
         height: auto;
+    }
+
+    #endh3 {
+        font-size: 2vh;
     }
 }
