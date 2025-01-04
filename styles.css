@@ -300,6 +300,7 @@ img {
 
     h3, #fltext {
         font-size: 2vh;
+        opacity: 0%;
     }
 
     a {
